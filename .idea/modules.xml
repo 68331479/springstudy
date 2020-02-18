@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sping-05-Autowired/sping-05-Autowired.iml" filepath="$PROJECT_DIR$/sping-05-Autowired/sping-05-Autowired.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-06-anno/spring-06-anno.iml" filepath="$PROJECT_DIR$/spring-06-anno/spring-06-anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springstudy.iml" filepath="$PROJECT_DIR$/springstudy.iml" />
+    </modules>
+  </component>
+</project>
