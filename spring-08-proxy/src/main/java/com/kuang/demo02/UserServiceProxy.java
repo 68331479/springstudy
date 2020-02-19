@@ -1,5 +1,7 @@
 package src.main.java.com.kuang.demo02;
 
+import java.lang.reflect.Proxy;
+
 public class UserServiceProxy implements UserService {
 
     private UserServiceImpl userService;
