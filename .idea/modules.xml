@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/sping-05-Autowired/sping-05-Autowired.iml" filepath="$PROJECT_DIR$/sping-05-Autowired/sping-05-Autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-06-anno/spring-06-anno.iml" filepath="$PROJECT_DIR$/spring-06-anno/spring-06-anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-09-aop/spring-09-aop.iml" filepath="$PROJECT_DIR$/spring-09-aop/spring-09-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-10-mybatis/spring-10-mybatis.iml" filepath="$PROJECT_DIR$/spring-10-mybatis/spring-10-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springstudy.iml" filepath="$PROJECT_DIR$/springstudy.iml" />
     </modules>
   </component>
